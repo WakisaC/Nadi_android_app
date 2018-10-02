@@ -1,0 +1,45 @@
+.bg-3 { 
+      background-color: #ffffff;
+      color: #555555;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+      color: white;
+
+
+  }
+  .navbar-header{
+      color: white;
+  }
+  #myNavbar{
+      color: white;
+  }
+
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+.navbar-default {
+
+    color: white;
+    background-image: none;
+    background-repeat: no-repeat;
+}
+
+  .active>a {
+    color: #1abc9c !important;;
+
+  }
+
+  .jumbotron{
+      text-align: left;
+  }
